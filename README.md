@@ -34,6 +34,7 @@ and the Kubernetes/AWS platform they run on.
 | [reconciliation-worker](https://github.com/nikkibraiam/reconciliation-worker) | Provider reconciliation: guarded auto-fixes, discrepancy lifecycle, leased jobs with `SKIP LOCKED`. PostgreSQL. |
 | [tiktok-live-aoe2](https://github.com/nikkibraiam/tiktok-live-aoe2) | Real-time event pipeline: TikTok Live → Socket.IO hub → bots training units in Age of Empires II, plus an OBS overlay. |
 | [binance-candles-collector](https://github.com/nikkibraiam/binance-candles-collector) | Market-data ingestion: Binance futures candlesticks into PostgreSQL, idempotent upserts, one parametrized collector. |
+| [firebase-raffle](https://github.com/nikkibraiam/firebase-raffle) | Realtime raffle: Vue 3 + Firestore, server-side reveal in Cloud Functions, security rules tests, offline emulator demo. |
 | [woo-delivery-lat](https://github.com/nikkibraiam/woo-delivery-lat) | WordPress/WooCommerce plugin for multi-branch restaurant delivery: KML coverage zones, store pickup, order notifications. |
 
 ## Contact
